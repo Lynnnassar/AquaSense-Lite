@@ -423,6 +423,12 @@ The project focuses on:
 * Basic sensor calibration
 
 ---
+## 📐 Circuit Diagram
+
+![AquaSense Lite Circuit Diagram](images/circuit-diagram.png)
+
+---
+
 
 ## 📄 License
 
